@@ -12,3 +12,4 @@ Este es un mensaje editado completametne desde GitHub
 
 ### Con pull rebase
 practica con pull rebase desde GitHub
+practica con pull rebase desde Git
